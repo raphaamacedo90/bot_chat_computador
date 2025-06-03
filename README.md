@@ -14,8 +14,9 @@ Este projeto demonstra como usar Python com a biblioteca `pyautogui` para automa
 ```
 📁 bot_chat_computador
 ├── Login.xlsx              # Planilha simulando a tela de login
-├── bot_login.py           # Script principal de automação com PyAutoGUI
-└── README.md              # Este arquivo
+├── position.py           # Script para achar a posição
+├── main.py               # Script principal de automação com PyAutoGUI
+└── README.md              
 ```
 
 ---
